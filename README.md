@@ -9,4 +9,3 @@ The datasets in this repository were used for the research study titled **Winner
 | TrainA.csv | The set of match data which is used for training purposes (created using DatasetA.csv with a split ratio of 0.70) |
 | TestA.csv | The set of match data which is used for testing purposes (created using DatasetA.csv with a split ratio of 0.30) |
 | DatasetB.csv | A ball-by-ball dataset corresponding to the matches in DatasetA.csv |
-|||
